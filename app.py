@@ -8,7 +8,7 @@ DIFY_API_URL = "https://api.dify.ai/v1/chat-messages"
 # Streamlit App UI
 st.set_page_config(page_title="FitZor", page_icon="🏋️", layout="centered")
 
-st.title("🏋️ Fitness Chatbot")
+st.title("🏋️ FitZor")
 st.write("Ask me anything about fitness, workouts, and healthy living!")
 
 # Store conversation in session
